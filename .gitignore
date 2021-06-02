@@ -1,4 +1,10 @@
+############################
+###Java
+############################
+.mtj.tmp
 *.class
-target/
-*.iml
-.idea/
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
